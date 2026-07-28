@@ -2,4 +2,8 @@ Hello git
 This is a Git practice file.
 hi hello
 
+<<<<<<< HEAD
 apple
+=======
+haha
+>>>>>>> 31a906a (Local edit)
